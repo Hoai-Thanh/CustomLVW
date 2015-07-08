@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lvw_white"
+    android:padding="@dimen/lvw_view_vertical_very_small">
+
+    <ImageView
+        android:id="@+id/lvw_listProductActivity_imgProduct"
+        android:layout_width="@dimen/lvw_icon_extra_large"
+        android:layout_height="@dimen/lvw_icon_extra_large"
+        android:layout_centerVertical="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/lvw_listProductActivity_imgProduct"
+        android:orientation="vertical"
+        android:layout_marginLeft="@dimen/lvw_view_horizontal_small"
+        android:layout_centerVertical="true">
+
+        <TextView
+            android:id="@+id/lvw_listProductActivity_productName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/lvw_text_size_medium"
+            android:textStyle="bold"
+            android:textColor="@color/lvw_blue"/>
+
+        <TextView
+            android:id="@+id/lvw_listProductActivity_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/lvw_text_view_vertical_small"
+            android:textSize="@dimen/lvw_text_size_medium"
+            android:textStyle="bold"
+            android:textColor="@color/lvw_red"/>
+
+        </LinearLayout>
+
+</RelativeLayout>

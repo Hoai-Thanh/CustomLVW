@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lvw_black">#000000</color>
+    <color name="lvw_azure_radiance">#0691E9</color>
+    <color name="lvw_black_transparent">#BF000000</color>
+    <color name="lvw_black_light">#181818</color>
+    <color name="lvw_strong_blue">#0086ba</color>
+    <color name="lvw_blue">#0087b9</color>
+    <color name="lvw_gray_french">#C6C6C6</color>
+    <color name="lvw_gray">#666666</color>
+    <color name="lvw_red">#FF0000</color>
+    <color name="lvw_white">#FFFFFF</color>
+    <color name="lvw_yellow">#FFFF00</color>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <!-- For View -->
+    <dimen name="lvw_view_horizontal_very_small">4dp</dimen>
+    <dimen name="lvw_view_horizontal_small">8dp</dimen>
+    <dimen name="lvw_view_horizontal_medium">16dp</dimen>
+    <dimen name="lvw_view_horizontal_large">24dp</dimen>
+
+    <dimen name="lvw_view_vertical_very_small">4dp</dimen>
+    <dimen name="lvw_view_vertical_small">8dp</dimen>
+    <dimen name="lvw_view_vertical_medium">16dp</dimen>
+    <dimen name="lvw_view_vertical_large">24dp</dimen>
+
+
+    <!-- For TextView -->
+    <dimen name="lvw_text_view_horizontal_very_small">4dp</dimen>
+    <dimen name="lvw_text_view_horizontal_small">8dp</dimen>
+    <dimen name="lvw_text_view_horizontal_medium">16dp</dimen>
+    <dimen name="lvw_text_view_horizontal_large">24dp</dimen>
+
+    <dimen name="lvw_text_view_vertical_very_small">4dp</dimen>
+    <dimen name="lvw_text_view_vertical_small">8dp</dimen>
+    <dimen name="lvw_text_view_vertical_medium">16dp</dimen>
+    <dimen name="lvw_text_view_vertical_large">24dp</dimen>
+
+    <!-- For Icon -->
+    <dimen name="lvw_icon_small">32dp</dimen>
+    <dimen name="lvw_icon_medium">48dp</dimen>
+    <dimen name="lvw_icon_large">64dp</dimen>
+    <dimen name="lvw_icon_extra_large">80dp</dimen>
+
+    <!-- For Text Size -->
+    <dimen name="lvw_text_size_small">12sp</dimen>
+    <dimen name="lvw_text_size_normal">14sp</dimen>
+    <dimen name="lvw_text_size_medium">16sp</dimen>
+    <dimen name="lvw_text_size_large">18sp</dimen>
+</resources>
